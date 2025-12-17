@@ -6,7 +6,7 @@
 
 - Outside of the settlements, the wilderness is a dialed to eleven version of the Witcher and Warhammer worlds. Monsters and beasts are roaming and supernatural creatures are very common. Here the brother's Grimm inspirations also are visible in locations, characters and threats.
 
-- The only respites are heavily fortified inns, similar to those in the empire in wh fantasy. They are situated 50 to 100 kilometers from each other along the crumbling remnants of trade roads and offer rest, services and most importantly, bonfires (or magical lights, not sure yet) to alarm the next inns of imminent danger.
+- The only respites are heavily fortified inns, similar to those in the empire in WH fantasy. They are situated 50 to 100 kilometers from each other along the crumbling remnants of trade roads and offer rest, services and most importantly, bonfires (or magical lights, not sure yet) to alarm the next inns of imminent danger.
 
 - Farming and agriculture is mostly confined to the "Enlightened zone" around settlements, areas that are heavily guarded and often deforested to minimize risk. The fields are only worked during the day and livestock is expensive and rare.
 

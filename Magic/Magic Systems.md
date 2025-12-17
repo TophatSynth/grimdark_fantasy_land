@@ -1,5 +1,8 @@
 # [[Spirit Magic]]
-- 
+- Mostly (If not only) known and used in the wilderness of the Northern Expanse
+- Has generally two Subcategories: **Spirit Communing** and **Spirit Absorption**
+- Can generally **not** be learnt. One can or can not use it.
+- It is important to note, that [[Elder Spirits]] and [[Spirit Fragments]] do **not** originate from the [[The Mirror|Mirror]], but the [[The Spirit Realm|Spirit Realm]] of reality
 
 ## Veil Scarring:
 - Leftover knowledge from aeons ago, before the [[Calamity]]. Extremely rare and dangerous these days

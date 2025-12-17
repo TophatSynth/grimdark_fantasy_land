@@ -20,6 +20,6 @@
 	- Death
 	- Air
 	- Rott
-	- (More to come)
+	- (More to come) 
 <br>
 ## Spirit Bargains:
