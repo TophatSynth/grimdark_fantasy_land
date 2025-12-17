@@ -5,6 +5,8 @@
 ## TechSavvySynth's Notes:
 - Need to read up on all the lore so far, then re-organise them so it's a lil clearer
 - Use bases to make TOC 
+- Thoughts on using tags to denote the to do list? something like #todo 
+	- ^ allows me to integrate it into bases so we can have a list of things we need to address
 
 ## BoomerNoiza's Notes:
 
