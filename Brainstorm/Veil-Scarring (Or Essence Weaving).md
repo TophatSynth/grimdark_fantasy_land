@@ -1,3 +1,9 @@
+---
+Draft: "True"
+WIP: "True"
+Done: "False"
+---
+
 # Below are the (slightly cleaned up) mechanics from Vilenought:
 
 ## Basic Concept:
@@ -88,5 +94,22 @@
 - Only exception: Learning from detailed written accounts or teachers
 - Spell (Power) cost (after “Alternative Ability-Limitation”) can not exceed points in “Weaving Empowerment”
 <br>
+## [Backlash:](https://gurps.fandom.com/wiki/Backlash)
+- Weaving magic **always** carries the risk of backfiring
+- By default **every** spell has *Backlash, Variable* (Priced like [Costs Fatigue, Variable](https://gurps.fandom.com/wiki/Costs_Fatigue,_Variable))
+- Each school/discipline of magic has its own dedicated backlash table
+- After every weaving, the caster rolls on **all** associated Backlash-Tables. The roll is modified by FP spend, so more powerful weavings risk more extreme backlashes
+- The roll is further modified if the weaving-roll was a failure
+<br>
+## [Attracts Threats:](https://gurps.fandom.com/wiki/Power-Ups_8:_Limitations)
+- Weaving magic **always** carries the risk of attracting unwanted attention
+<br>
+## [Radically Unstable Magery](https://gurps.fandom.com/wiki/Radically_Unstable_Magery)
+- Every spell is a great risk of catastrophic failure.
+- It is mandatory for every spell-power to have *Radically unstable Magery, -10%*
+- #ToDecide
+<br>
 ## Mandatory Enhancements & Limitations:
 - WIP
+- #todo 
+

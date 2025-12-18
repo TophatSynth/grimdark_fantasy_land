@@ -1,3 +1,9 @@
+---
+Draft: "True"
+WIP: "True"
+Done: "False"
+---
+
 # Overview:
 - Semi-Sentient Nature Spirits
 - Rare, fixed to specific locations or objects

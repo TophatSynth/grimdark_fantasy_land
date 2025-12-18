@@ -1,3 +1,9 @@
+---
+Draft: "True"
+WIP: "True"
+Done: "False"
+---
+
 ## Overview
 - Mostly (If not only) known and used in the wilderness of the Northern Expanse
 - Has generally two Subcategories: **Spirit Communing** and **Spirit Absorption**
