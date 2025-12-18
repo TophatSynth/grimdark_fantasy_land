@@ -4,7 +4,7 @@
 - Can generally **not** be learnt. One can or can not use it.
 - It is important to note, that [[Elder Spirits]] and [[Spirit Fragments]] do **not** originate from the [[The Mirror|Mirror]], but the [[The Spirit Realm|Spirit Realm]] of reality
 
-## Veil Scarring:
+## Veil Scarring/?Weaving (Somehow attached to the name)?:
 - Leftover knowledge from aeons ago, before the [[Calamity]]. Extremely rare and dangerous these days
 - Uses a modified version of our Vilenought-Magic System
 - There will be **no** hardcore improvisation + improvisation. There will be however, temporary enhancements of spells (added damage, range, area, extra time taken, extra duration, etc)
