@@ -9,9 +9,9 @@ height: 500px ### Size of the leaflet embed in px on your screen
 width: 100% ### Size of the leaflet embed in your note  
 lat: 362 ### To center the map, make this half of the map height.  
 long: 512 ### To center the map, make this half of the map width.  
-minZoom: -1.5 ### Controls how far away from the map you can zoom out. Hover over the target icon to see the current level.  
+minZoom: -1 ### Controls how far away from the map you can zoom out. Hover over the target icon to see the current level.  
 maxZoom: 1 ### Controls how far towards the map you can zoom in. Hover over the target icon to see the current level.  
-defaultZoom: -0.75 ### Sets the default zoom level when the map loads. Hover over the target icon to see the current level.  
+defaultZoom: -0.5 ### Sets the default zoom level when the map loads. Hover over the target icon to see the current level.  
 zoomDelta: 0.5 ### Adjust how much the zoom changes when you zoom in or out.  
 unit: mi ### The value displayed when measuring so you know what type of unit is being measure.  
 scale: 0.24193548387096772 ### Real units/px (resolution) of your map  
@@ -23,6 +23,8 @@ marker:
 - Town,110.5,872,Ironkeep (Name Placeholder),,<minZoom*>,<maxZoom*>
 - Town,193.5,659.3333129882812,Riverwell (Name placeholder),,<minZoom*>,<maxZoom*>
 - Road,163.16665649414062,766.1666259765625,Nose and Neck - Coastal Road,,,
+- Road,330.6458435058594,724.5000305175781,Southern Wyrmhold Road,,,
+- Road,443.6666717529297,591.1666564941406,Northern Wyrmhold Road,,,
 
 ```
 

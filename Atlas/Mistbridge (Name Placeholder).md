@@ -1,1 +1,0 @@
-Farmlands, livestock, wood and liquor
