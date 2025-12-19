@@ -1,1 +1,1 @@
-Well its the Road from Mistbridge to Riverwell. But there surely will follow details.
+Well its the Road from [[Mistbridge (Name Placeholder)|Mistbridge]] to [[Riverwell (Name placeholder)|Riverwell]]. But there surely will follow details.

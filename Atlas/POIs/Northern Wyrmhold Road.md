@@ -1,1 +1,1 @@
-Well its the Road from Mistbridge to Wyrmhold-Ruins. But there surely will follow details.
+Well its the Road from [[Mistbridge (Name Placeholder)|Mistbridge]] to Wyrmhold-Ruins. But there surely will follow details.
