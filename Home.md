@@ -57,7 +57,8 @@ views:
 
 ## TechSavvySynth's Notes:
 - Need to read up on all the lore so far, then re-organise them so it's a lil clearer
-- Use bases to make TOC 
+ - [x] Use bases to make TOC 
+	- [ ] Show number of todo tags per file?
 - 
 
 ---
