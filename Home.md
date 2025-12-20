@@ -1,3 +1,4 @@
+
 <center> Homepage with Leaflet map </center>
 ---
 
@@ -29,13 +30,35 @@ marker:
 ```
 
 ---
+```base
+filters:
+  or:
+    - file.tags.contains("todo")
+properties:
+  file.folder:
+    displayName: Folder
+  file.name:
+    displayName: To work on
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+    sort:
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      file.name: 400
+
+```
+
+---
 ## Notes here:
 
 ## TechSavvySynth's Notes:
 - Need to read up on all the lore so far, then re-organise them so it's a lil clearer
 - Use bases to make TOC 
-- Thoughts on using tags to denote the to do list? something like #todo 
-	- ^ allows me to integrate it into bases so we can have a list of things we need to address
+- 
 
 ---
 ## BoomerNoiza's Notes:
