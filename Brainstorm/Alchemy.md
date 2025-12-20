@@ -1,0 +1,20 @@
+#todo 
+- 2 types
+	- Spirit alchemy
+		- Less powerful, but safer in general
+			- Generally has more of a naturalism vibe in terms of effects 
+			- Think witch in the woods, bringing out the properties of certain substances 
+		- Requires going to certain places related to the effect desired
+		- Ingredients are very difficult to obtain — the first leaf of fall, a dozen virgin toads
+		- Chants are specific and obscure 
+		- BUT — anybody can do them, if they found all the necessary components 
+		- Maybe the act of alchemy provides them an anchor with which to affect the world, but in doing so also binds them, preventing the spirits from dispelling it themselves
+	- Mirror alchemy
+		- Can also be done by anyone 
+		- Still requires difficult ingredients
+		- More powerful, but requires the user to go to [[Veil-Scarring (Or Essence Weaving)|veil-scarred]] places -> runs the risk of mutations and etc
+- Another idea is to have alchemy be the in-between of mirror and spirit 
+	- The alchemy does not really produce the effect, but rather attracts the right spirit for the job so to speak? #ToDecide 	
+- Leads to a lot of superstition on certain items having intrinsic properties that, with the right ritual, can be brought out
+	- eg silver laid in a bucket under the full moon will bring you protection
+	-  the trick being some is true, some isn't
