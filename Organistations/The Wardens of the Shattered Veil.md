@@ -93,26 +93,32 @@ These excursions aim to:
 ---
 # Order Structure, Traditions and Hierarchy:
 <br>
-## Titles, Ranks & Naming Conventions:
+## Titles, Ranks & Naming Conventions (Please suggest improvements!):
 
-- The Ward - The entirety of the Conclave
 - Lord Commander - Military Leader
 - Lord Librarian - Spiritual Leader
+<br>
+- The Ward - The entirety of the Conclave, the overarching web that holds it in existance, with the Lords in the Center and the Bands uniformly spread out.
 
-- 
+- The Band (The Cell?, The Pack?, The Kin?) - The smallest and closest unit of Wardens. Typically comprised of 4-8 members
 
-- The Lattice acts as the overarching web, with the Lords in the Center and the Cells uniformly spread out
+- The Lattice acts as 
 	- Ensures that Cells are periodically reassigned roles, routes and routines (Prevents stagnation, ensures flexibility and reduces possible corruption)
 	- Cells are regularly deployed in unison with brethren Cells to increase cooperation, bonding and cross-cell corruption-recognition
 
 ## Rules & Traditions
 
+- The 
+
+
+
 ### The Rules of Severance:
 
 - The Succouring:
-	- Periodically, but never predictably, Wardens are temporary reassigned to a different Hearth
+	- Periodically, but never predictably, Wardens are temporary reassigned to a different Hearth for various reasons (Lend specific talents, Increase manpower, share experience)
 
 - The Parting:
+	- In the instance of unrest, unsolvable disagreements, risk of infighting, extraordinary need for a specific Warden in a different Pack etc, one or more members of a Band may at any point be reappointed to a different Band. This is rare, tragic and only done when absolutely necessary 
 
 - 4-8 Wardens form a Cell
 	- Trained Together
