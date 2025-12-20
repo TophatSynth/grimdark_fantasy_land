@@ -100,7 +100,12 @@ These excursions aim to:
 
 - The Ward - The entirety of the Conclave, the overarching web that holds it in existence, with the Lords in the Center and the Bands uniformly spread out.
 
-- The Band (The Blackband?, The Cell?, The Pack?, The Kin?) - The smallest and closest unit of Wardens. Typically comprised of 4-8 members
+- The Band (The Blackband?, The Cell?, The Pack?, The Kin?)
+	- The smallest and closest unit of Wardens.
+	- Typically comprised of 4-8 members
+	- Trained and bound together
+	- Mutations compliment each other
+	- One cohesive unit. More like Family than comrades
 <br>
 - Lord Commander - Military Leader
 - Lord Librarian - Spiritual Leader
@@ -134,15 +139,10 @@ These excursions aim to:
 - The Succouring:
 	- Periodically, but never predictably, Wardens are temporary reassigned to a different Hearth for various reasons (Lend specific talents, Increase manpower, share experience)
 
-- The Parting:
+- The Parting (The Severing?):
 	- In the instance of unrest, unsolvable disagreements, risk of infighting, extraordinary need for a specific Warden in a different Pack etc, one or more members of a Band may at any point be reappointed to a different Band. This is rare, tragic and only done when absolutely necessary 
 
-- 4-8 Wardens form a Cell
-	- Trained Together
-	- Mutations compliment each other
-	- One cohesive unit. More like Family than Comrades
-	- 
-
+- The Sundering:
 
 ---
 ## The Quiet Observers
