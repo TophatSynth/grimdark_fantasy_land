@@ -22,7 +22,7 @@ marker:
 - Road,6156,5358.6669921875,Southern Wyrmhold Road,,,
 - Road,5811.474817222844,539.2863114289629,Mistbridge-Riverwell Road,,,
 - Road,212,4398.666748046875,Nose and Neck - Coastal Road,,,
-- Town,Coordinates,<Linked Note>,,<minZoom*>,<maxZoom*>
+- <Type>,Coordinates,<Linked Note>,,<minZoom*>,<maxZoom*>
 
 ```
 

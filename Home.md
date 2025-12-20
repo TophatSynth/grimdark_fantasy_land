@@ -44,14 +44,10 @@ marker:
 	- Get the Leaflet Plugin + Enable it.
 	- I will handle maps if that is alright for you
 
-- Ideas for the Sandbox/Brainstorm Area:
-	- 1. Mining town sitting atop a mountain pass. Mostly producing ore, metal, tools and weapons
-	- 2. Farming/Agricultural Town in the heart of the valley. Mostly producing food
-	- 3. Harbor/Fishing Town by the ocean. Mostly producing seafood and hub for some trade
-	- 4. Fortified Inns along the roads (The chain broken and Inns varying widely in architecture and state of repair)
+- Ideas to add for the Sandbox/Brainstorm Area:
+	- Fortified Inns along the roads (The chain broken and Inns varying widely in architecture and state of repair)
 	- "The Paladins" (Name pending) have a smallish keep in the area
 	- There is at least one Thin-veiled area in the valley, allowing the "Predators" easy access
-
-- Races/Species: Should we have multiple actual distinct races or stick with Humans and "Humans plus"? I love fantasy race tropes, but at the same time I feel like having only humanity would help keep the setting grounded and real in its weirdness
-
+<br>
 - Would like an Alchemy-System
+- Flora & Fauna: Should we go full fantastical or use real world animals at least to keep things grounded (and less work)?
