@@ -59,14 +59,15 @@ views:
 - Need to read up on all the lore so far, then re-organise them so it's a lil clearer
  - [x] Use bases to make TOC 
 	- [ ] Show number of todo tags per file?
-- 
+- Work on alchemy 
+- Spirit fragment types need thinking
 
 ---
 ## BoomerNoiza's Notes:
 
 - To get Leaflet working:
 	- Get the Leaflet Plugin + Enable it.
-	- I will handle maps if that is alright for you
+	- I will handle maps if that is alright for you {Sure!}
 
 - Ideas to add for the Sandbox/Brainstorm Area:
 	- Fortified Inns along the roads (The chain broken and Inns varying widely in architecture and state of repair)
@@ -75,3 +76,4 @@ views:
 <br>
 - Would like an Alchemy-System
 - Flora & Fauna: Should we go full fantastical or use real world animals at least to keep things grounded (and less work)?
+	- {I'd say go with what we did for Vilenought. Real world animals, corrupted by the veil}
