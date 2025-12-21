@@ -32,7 +32,9 @@ Any incursion lead by the Ward are limited to a few days at most, the Wardens qu
 
 ---
 # Goals of the Conclave:
-<br>
+
+**Survive**
+
 ## Hunts & Crusades in Reality:
 
 *The Ward*, despite appearing barely Human to those who lay eyes on them, still need the resources any human society needs. Food, water, ore, timber, manpower. All of these can not reliably be found in *The Mirror*.
@@ -93,33 +95,54 @@ These excursions aim to:
 ---
 # Order Structure, Traditions and Hierarchy:
 <br>
-## Titles, Ranks & Naming Conventions:
 
-- The Ward - The entirety of the Conclave
+## Titles, Ranks & Naming Conventions (Please suggest improvements!):
+
+- The Ward - The entirety of the Conclave, the overarching web that holds it in existence, with the Lords in the Center and the Bands uniformly spread out.
+
+- The Band (The Blackband?, The Cell?, The Pack?, The Kin?)
+	- The smallest and closest unit of Wardens.
+	- Typically comprised of 4-8 members
+	- Trained and bound together
+	- Mutations compliment each other
+	- One cohesive unit. More like Family than comrades
+<br>
 - Lord Commander - Military Leader
 - Lord Librarian - Spiritual Leader
+<br>
+- High Wardens - Very few, possibly only three (Hunters, Stewards and Warriors)
 
-- 
+- Ward Marshals - Coordinate multiple Cells,  Succourings, Bondings, Transferrings and general deployment
 
-- The Lattice acts as the overarching web, with the Lords in the Center and the Cells uniformly spread out
-	- Ensures that Cells are periodically reassigned roles, routes and routines (Prevents stagnation, ensures flexibility and reduces possible corruption)
-	- Cells are regularly deployed in unison with brethren Cells to increase cooperation, bonding and cross-cell corruption-recognition
+- Bandmasters: Tactical command over a Cell, final word in the field, responsible for his kin
+
+- Wardens: The rank and file full members with multiple specializations but all share capability for combat
+	- Wardbearers: Magically adept, knowledge of the Mirror's secrets, can draw circles and lay wards of protection. Can tear the veil. Typically 1 per pack
+	- Scribes: Maintains rituals and cell-specific traditions, logs names, honors the faded, catalogs hunts. Typically 1 per pack
+	- Envoys: Negotiate tribute, Judge human behavior, interface with benevolent or neutral Mirrorborn. Most "human" in appearance, least overt mutations. Typically 1 or 2 per pack
+	- Hunters: The primary predators and warriors of the conclave. Tracking, Melee & Ranged proficiency, most obvious mutations 
+
+- The Unrisen (The Unbound?): Initiates, proselytes. Observe, bear the marks, serve and get bound, so you may rise one day.
+<br>
 
 ## Rules & Traditions
+
+- The Transferring:
+	- Ensures that Cells are periodically reassigned roles, routes and routines (Prevents stagnation, ensures flexibility and reduces possible corruption)
+
+- The Bonding:
+	- Cells are regularly deployed in unison with brethren Cells to increase cooperation, bonding and cross-cell corruption-recognition
+
 
 ### The Rules of Severance:
 
 - The Succouring:
-	- Periodically, but never predictably, Wardens are temporary reassigned to a different Hearth
+	- Periodically, but never predictably, Wardens are temporary reassigned to a different Hearth for various reasons (Lend specific talents, Increase manpower, share experience)
 
-- The Parting:
+- The Parting (The Severing?):
+	- In the instance of unrest, unsolvable disagreements, risk of infighting, extraordinary need for a specific Warden in a different Pack etc, one or more members of a Band may at any point be reappointed to a different Band. This is rare, tragic and only done when absolutely necessary 
 
-- 4-8 Wardens form a Cell
-	- Trained Together
-	- Mutations compliment each other
-	- One cohesive unit. More like Family than Comrades
-	- 
-
+- The Sundering:
 
 ---
 ## The Quiet Observers

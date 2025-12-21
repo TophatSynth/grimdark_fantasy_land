@@ -1,8 +1,4 @@
----
-Draft: "True"
-WIP: "True"
-Done: "False"
----
+#todo 
 
 # Below are the (slightly cleaned up) mechanics from Vilenought:
 

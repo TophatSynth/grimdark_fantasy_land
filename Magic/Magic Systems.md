@@ -1,8 +1,3 @@
----
-Draft: "True"
-WIP: "True"
-Done: "False"
----
 
 # [[Spirit Magic]]
 - Mostly (If not only) known and used in the wilderness of the Northern Expanse

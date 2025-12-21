@@ -1,8 +1,3 @@
----
-Draft: "True"
-WIP: "True"
-Done: "False"
----
 # Overview:
 <br>
 - For various reasons (Being born in a thin veiled area, being exposed to magic, actually entering the mirror, etc) can lead to mutations and becoming "Mirror-touched"

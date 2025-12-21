@@ -1,8 +1,4 @@
----
-Draft: "True"
-WIP: "True"
-Done: "False"
----
+#todo 
 
 # Overview:
 - Semi-Sentient Nature Spirits
