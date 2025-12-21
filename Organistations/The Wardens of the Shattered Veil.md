@@ -35,9 +35,9 @@ Any incursion lead by the Ward are limited to a few days at most, the Wardens qu
 <br>
 ## Hunts & Crusades in Reality:
 
-*The Ward*, despite appearing barely Human to those who lay eyes on them, still need the resources, any human society needs. Food, water, ore, timber, manpower. All of these can not reliably be found in *The Mirror*.
+*The Ward*, despite appearing barely Human to those who lay eyes on them, still need the resources any human society needs. Food, water, ore, timber, manpower. All of these can not reliably be found in *The Mirror*.
 
-To compensate, *The Ward* has taken to combine resource-collection with finding purpose beyond mere existence and enduring. They might not be able to permanently return to reality, but they **can** cross [[The Veil]] temporarily.
+To compensate, *The Ward* has taken to combining resource-collection with finding purpose beyond mere existence and enduring. They might not be able to permanently return to reality, but they **can** cross [[The Veil]] temporarily.
 
 These excursions aim to:
 - Gain insight and information about the state of (and time passed in) Reality
