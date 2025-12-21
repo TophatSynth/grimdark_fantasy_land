@@ -1,6 +1,8 @@
 Salt, wind, cold, moist. Also fish
 #todo 
 
+
+
 ---
 
 ```leaflet  
@@ -26,3 +28,7 @@ marker:
 - Town,Coordinates,<Linked Note>,,<minZoom*>,<maxZoom*> 
 
 ```
+
+--- 
+# Ideas #ToDecide 
+- 

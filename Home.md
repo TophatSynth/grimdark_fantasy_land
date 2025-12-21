@@ -61,6 +61,7 @@ views:
 	- [ ] Show number of todo tags per file?
 - Work on alchemy 
 - Spirit fragment types need thinking
+- Add my fireflower idea to [[Ironkeep (Name Placeholder)]] 
 
 ---
 ## BoomerNoiza's Notes:
