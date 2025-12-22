@@ -66,10 +66,6 @@ views:
 ---
 ## BoomerNoiza's Notes:
 
-- To get Leaflet working:
-	- Get the Leaflet Plugin + Enable it.
-	- I will handle maps if that is alright for you {Sure!}
-
 - Ideas to add for the Sandbox/Brainstorm Area:
 	- Fortified Inns along the roads (The chain broken and Inns varying widely in architecture and state of repair)
 	- "The Paladins" (Name pending) have a smallish keep in the area

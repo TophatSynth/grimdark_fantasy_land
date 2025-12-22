@@ -1,3 +1,7 @@
+---
+publish: "true"
+---
+
 #ToDecide #todo 
 # Naming Options: (Help me out here)
 
@@ -6,12 +10,14 @@ Prefixes:
 - The Custodians...
 - The Conclave...
 - ...
+- Ideas?
 
 Suffixes:
 - ...of the Shattered Veil
 - ...of Ash
 - ...of Shadows
 - ...
+- Ideas?
 
 ---
 # Overview:
@@ -31,13 +37,147 @@ Centuries of exposure to *The Mirror* and embracing it's effects have, in additi
 Any incursion lead by the Ward are limited to a few days at most, the Wardens quickly weakening, fading, draining away. So, for better or worse, they are forever bound to accept *The Mirror* as their home. 
 
 ---
-# Goals of the Conclave:
+# The Tenets - Core Doctrinal Concepts & Principles
+<br>
 
-**Survive**
+> [!Quote] Lord Librarian Duncan Farsight<br>127 AC
+> "We may be Custodians of Humanity in a sea of Darkness, but we are also hunters. Predators fighting our way to the top"
+
+<br>
+
+##### I. Survival of the Ward exceeds all. Our commitment to its continued existence is absolute. Brotherhood, honor, friendship and compassion shall turn to dust before the Hearth falls to corruption.
+<br>
+
+##### II. Cherish your Kin, Trust them with your life. But never trust blindly. For tomorrow a Black Bond might come.
+<br>
+
+##### III. The Ward is your tribe, your Band is your Family. You will gladly die for both.
+<br>
+
+##### IV. Know your Kin like you know yourself. Celebrate with them, mourn the faded. Uphold the Memory.
+<br>
+
+##### V. Uphold the Ember that burns in your heart. For the Light shall guide your path, it shall shine bright in the face of the Horror. It shall flicker and die when the cleansing flames consume your soul.
+<br>
+
+##### VI: Embrace the change, for it makes you strong.
+<br>
+
+##### VII. The Hunt is the Charge laid upon us, the path that was appointed. We shall not falter, for we are the true Custodians, standing between humanity and the horrors creeping in the dark. 
+
+---
+
+# The Hunt
+<br>
+
+> [!Quote] Attributed to the First Wardens
+> “The Mirror hunts us without pause.  
+> To survive, we learned to hunt it back.”
+
+The Hunt is not an act of glory, nor a calling born of zeal.  
+It is the discipline by which the Ward endures, the burden laid upon it to stand guard at the precipice.
+
+Every blade drawn, every arrow loosed, every flame kindled is a measured answer to a hostile world that never rests, never seizes its attempts to drag humanity into darkness. 
+
+To refuse the Hunt is to invite extinction. To hunt without doctrine is to descend into slaughter, to become mere butchers.
+
+The Ward does neither.
+
+The Hunt encompasses all sanctioned acts of force and armed excursions undertaken by the Ward - whether against the mirror-born, the corrupted, or Humanity itself when doctrine demands it. Tracking, culling, warding, crusade, reprisal, protection and extermination.
+
+Whether in the Wilds of the Mirror or beyond the Veil, to hunt is to expose oneself to the Mirror, to invite change, and to risk becoming what must be destroyed.
+
+For these reasons, The Hunt is bound by law older than any living Warden.
+
+---
+
+## Laws & Classifications
+
+The Hunt exists not for sport, not for glory, nor for conquest.
+
+It serves four functions, and four alone:
+
+- To protect the Ward, the Hearth and its Tendrils
+    
+- To shield Humanity from the encroaching ruin and thin the horrors pressing against the Veil
+    
+- To temper Wardens through controlled exposure
+    
+- To prove mastery over fear, blade and self
+    
+Every Hunt teaches restraint as much as violence. Every return is an accounting.
+<br>
+### Doctrine of the Hunt
+
+###### I. The Hunt is restrained
+The Ward does not butcher or rage, nor does it kill without cause. Blind violence gnaws at the foundations we stand on. A Warden who kills for pleasure or convenience has failed the Ward, even if the prey lies dead. Indulgence in blood brings us close to becoming what we vowed to erase.
+
+###### II. The Hunt observes
+Potential targets are named, measured, and weighed against doctrine before a drop of blood is shed. To rush blindly is to risk slaying the innocent.
+Ignorance does not carry absolution.
+
+###### III. The Hunt is prepared
+Every Hunt is preceded by preparation, divination, and deliberation.
+Rituals are carried out, not only for tradition’s sake, but to steady the Wardens’ minds against erosion.
+No prey is pursued without deliberation. No ground is entered blindly. To rush is to invite failure and corruption.
+
+###### IV. The Hunt does not linger
+When observation, preparation and deliberation have concluded, the Hunt is decisive. 
+Killing, when sanctioned, is swift.
+Cruelty beyond necessity is taboo. Prolonged violence feeds the Mirror. Lingering cruelty invites change. indulgence in suffering erodes empathy and judgement. Empathy and judgment make us what we are.
+
+
+###### V. The Hunt is Humble
+A Warden does not revel in the afterglow of a Hunt, nor does a Warden boast.
+To kill is to learn. To learn is to grow. A prideful Warden will soon be forgotten.
+
+
+###### VI. When the Doctrine Breaks
+
+There are moments when law bends or shatters. Surprise incursions, breaches of the Hearth, overwhelming assaults from the Wilds.
+
+In such moments, survival eclipses tradition. 
+
+But these exceptions are never forgotten.
+
+When the fires die and the wounded are counted, the Hunt is reviewed. Actions taken in necessity are weighed after the fact, and necessity does not grant immunity from judgement.
+
+The Ward endures not because it is flawless - but because it remembers.
+
+---
+<br>
+
+### The Measure of the Prey
+
+Not all things born of the Mirror are equal. To pretend otherwise is ignorance - and ignorance is lethal.
+
+All encountered entities are classified before sanction:
+
+- **True Horrors**  
+Abominations beyond redemption and irredeemably hostile to Humanity and the Ward.
+Their existence is a constant wound upon Reality.
+No quarter is given. No evaluation delays the blade. Their destruction is mandatory and requires no further sanction.
+
+
+- **Unstable Entities**  
+Creatures or beings showing fluctuation in morals, partial or full sentience, unclear motives or are simply not clearly cataloged. 
+Action requires evaluation. Rash judgment is forbidden.
+They must be observed, tested, and judged. To strike too soon risks murder. To hesitate too long risks death.
+
+- **Sentient Others**  
+Self-aware beings capable of reason, memory, and restraint. By doctrine, they are not prey.  
+The Ward protects this boundary fiercely, for the day it is crossed without sanction is the day the Hunt becomes slaughter.
+To hunt them without sanction is itself an Unhallowed Act.
+<br>
+
+Misclassification is a grave offense. To kill what should have been spared invites scrutiny. To spare what should have been culled invites worse.
+<br>
+
+---
 
 ## Hunts & Crusades in Reality:
 
-*The Ward*, despite appearing barely Human to those who lay eyes on them, still need the resources any human society needs. Food, water, ore, timber, manpower. All of these can not reliably be found in *The Mirror*.
+*The Ward*, despite appearing barely Human to those who lay eyes on them, still needs the resources any human society needs. Food, water, ore, timber, manpower. All of these can not reliably be found in *The Mirror*.
 
 To compensate, *The Ward* has taken to combining resource-collection with finding purpose beyond mere existence and enduring. They might not be able to permanently return to reality, but they **can** cross [[The Veil]] temporarily.
 
@@ -50,105 +190,224 @@ These excursions aim to:
 
 ---
 ## Hunts & Quests in the Mirror
-<br>
+
+- Details about them (Establishing foothold, Securing areas for watchtowers, Finding thin-veiled locations, unearthing artifacts)
 
 ---
 # The Hearth:
 
 - Details about the Headquarters of the Conclave
 
----
-# Worldview and Principles:
+## The Tendrils:
 
-
-> [!Quote] Lord Librarian Duncan Farsight<br>127 AC
-> "We may be Custodians of Humanity in a sea of Darkness, but we are also hunters. Predators fighting our way to the top"
-
-
-- Survival of the Ward exceeds all. Principle, honor, friendship and compassion shall flicker and perish before the Hearth falls to corruption.
-<br>
-- The Ward is your tribe, your Band are your family. You die for both.
-<br>
-- Hunting has clear rules. The Ward does not devolve into butchers or mindless berserks.
-	- Every Hunt, quest and crusade is proceeded by preparation and planning
-	- Potential targets get evaluated and classified
-	- Killing is ritualized, swift and decisive
-	- Unneeded cruelty towards monsters and men is shunned
-<br>
-- Mirror-born entities are not a monstrous mass, they come in gradients:
-	- True Horrors
-	- Unstable Entities
-	- Sentient Others
-<br>
-- Hunting is not a sport, it is:
-	- Training for survival
-	- Ritualistic anchoring
-	- Controlled exposure to the Mirror
-	- Proof of mastery
-- Only True Horrors are fair game, Unstable Entities require evaluation, Sentient Others are off limits.
-- The only time when protocol can be foregone is during surprise attacks, when The Great Hall is under threat or similar situations.
-<br>
-- Corruption and betrayal must be rooted out by any means
-- Brotherhood, bonds, the past, the Hearth... nothing matters in the face of erasure
-
+- Details about the Outposts, Watchtowers and Cleansed Areas
 
 ---
-# Order Structure, Traditions and Hierarchy:
+# Order Structure, Traditions, Naming Conventions and Hierarchy (Please suggest improvements!):
 <br>
+## I. The Order Itself
 
-## Titles, Ranks & Naming Conventions (Please suggest improvements!):
+- The Ward
+	- The entirety of the order, the collective body, doctrine, and survival mechanism.
 
-- The Ward - The entirety of the Conclave, the overarching web that holds it in existence, with the Lords in the Center and the Bands uniformly spread out.
+- The Black Web
+	- The concept describes the overarching structure that holds it in existence, with the Lords in the Center and the Bands uniformly spread out and no part stronger then the weakest link.
 
-- The Band (The Blackband?, The Cell?, The Pack?, The Kin?)
-	- The smallest and closest unit of Wardens.
-	- Typically comprised of 4-8 members
-	- Trained and bound together
+- The Conclave
+	- Used interchangeably with the Ward to emphasize its ruling, doctrinal, and ritual aspect.
+
+- The Hearth
+	- The headquarters / keep of the Ward, anchored in relative stability within the Mirror.
+
+- The Mirror
+	- The hostile, mutable realm that is now the Ward’s permanent home.
+
+- The Veil
+	- The boundary between Reality and the Mirror.
+
+- The Wilds
+	- The entirety of the Mirror outside of the Ward’s permanent realm of control
+
+## II. Members & Status
+
+- Warden
+	- Full, initialized members of the Ward.
+	- **All** members of the Ward are Wardens, from the rank and file up to the Lord Commander
+
+- Kin
+	- Meaning interchangeably with "Warden" but used more often in private, unofficial contexts
+
+- The Unrisen / The Unbound
+	- Initiates and proselytes undergoing controlled exposure and awaiting final evaluation
+	- Observe, bear the marks, serve and get bound, so you may rise one day
+
+- Cubs/Fledglings
+	- Unofficial naming convention for freshly risen/bound that have passed their final evaluation
+
+- The Quiet
+	- Wardens sentenced to "The Muting": tongueless, depowered, partially lobotomized. Used as warning, ultimate punishment and tasked with anonymizing reports filed by Watchers, issuing randomized Watchings, revealing the names of the Watched after the Jury (name pending #ToDecide) has issued a guilt sentence
+
+## III. Organizational Units
+
+- The Band (Name pending, #ToDecide)
+	- Smallest & closest operational and social unit (4–8 Wardens).
+	- Alternative names, many may be in circulation as slang: Cell, Pack, Unit
+	- Trained and bound together, mostly for life, except for Succourings, Partings and Sunderings
 	- Mutations compliment each other
 	- One cohesive unit. More like Family than comrades
+
+- The Stewards
+	- Not a dedicated organization but a role
+	- Any Band can at any time be transferred to Stewardship
+	- Not a punishment but part of the standard Transferring circle
+	- Tasked with securing the Hearth, daily chores, assisting the Leadership
+
+- The Bond
+	- Two or more Bands working together for a predetermined amount of time and towards a set goal
+
+- The Black Bond
+	- Two or more Bands assigned with executing a Judgement towards a individual Warden or a Band
+	- Also known as the Ashwardens
 <br>
-- Lord Commander - Military Leader
-- Lord Librarian - Spiritual Leader
+## IV. Hierarchy & Titles (Names pending. #ToDecide)
+
+### High Authority 
+
+- Lord Commander
+	- Military leader of the Ward.
+
+- Lord Librarian
+	- Spiritual, doctrinal, and ideological authority.
+
+- High Wardens
+	- Very few in number; senior figures (Hunters, Stewards, Warriors).
+	- Coordinate Ward Marshals
+
+###  Command & Coordination
+
+- Ward Marshals
+	- Coordinate multiple Bands; oversee Succourings, Bondings, Transferrings and general deployment and logistics
+
+- Bandmasters
+	- Tactical leaders of a Band; final authority in the field.
+	- Not a permanent position, rotates according to Hunt requirements
+
+## V. Roles Within a Band
+
+- All are Wardens and combat/hunt capable. These are functional specializations
+
+- Wardbearer
+	- Magical specialist. Knowledge of the Mirror's secrets, wards, circles, rituals, veil-tearing
+	- Typically 1 per Band
+
+- Scribe
+	- Keeper of records, names, honors, hunts, and cell traditions, remembers the Faded, catalogs Hunts
+	- Typically 1 per Band
+
+- Envoy
+	- Negotiate tribute, Judge human behavior, interface with humans and benevolent or neutral Mirrorborn.
+	- Most "human" in appearance, least overt mutations.
+	- Typically 1 or 2 per Band
+
+- Hunter
+	- Primary combatants and trackers
+	- Most visibly mutated
+	- Melee & Ranged proficiency
 <br>
-- High Wardens - Very few, possibly only three (Hunters, Stewards and Warriors)
-
-- Ward Marshals - Coordinate multiple Cells,  Succourings, Bondings, Transferrings and general deployment
-
-- Bandmasters: Tactical command over a Cell, final word in the field, responsible for his kin
-
-- Wardens: The rank and file full members with multiple specializations but all share capability for combat
-	- Wardbearers: Magically adept, knowledge of the Mirror's secrets, can draw circles and lay wards of protection. Can tear the veil. Typically 1 per pack
-	- Scribes: Maintains rituals and cell-specific traditions, logs names, honors the faded, catalogs hunts. Typically 1 per pack
-	- Envoys: Negotiate tribute, Judge human behavior, interface with benevolent or neutral Mirrorborn. Most "human" in appearance, least overt mutations. Typically 1 or 2 per pack
-	- Hunters: The primary predators and warriors of the conclave. Tracking, Melee & Ranged proficiency, most obvious mutations 
-
-- The Unrisen (The Unbound?): Initiates, proselytes. Observe, bear the marks, serve and get bound, so you may rise one day.
+## VI Rules & Traditions
 <br>
+### Severance and Unity - Internal Transfers, Routine  Mechanisms & Social Control
 
-## Rules & Traditions
+- The Succouring
+	- Temporary reassignment of Wardens between Bands.
+	- Used to bolster unit strength, Lend specific talents, share experience and similar reasons
+	- Is always communicated to The Quiet in case a Watching is planned
 
-- The Transferring:
-	- Ensures that Cells are periodically reassigned roles, routes and routines (Prevents stagnation, ensures flexibility and reduces possible corruption)
+- The Transferring
+	- Periodic and mandatory reassignment of roles, routes, and routines of entire Cells
+	- Prevents stagnation, ensures flexibility and reduces possible corruption
 
-- The Bonding:
-	- Cells are regularly deployed in unison with brethren Cells to increase cooperation, bonding and cross-cell corruption-recognition
+- The Bonding
+	- Joint deployments of multiple Bands to reinforce cooperation, cohesion, cross-unit bonding and cross-observation.
+
+- The Stewardship
+	- Any Band can at any time be transferred to Stewardship
+	- Not a punishment but part of the standard Transferring circle
+	- Tasked with securing the Hearth, daily chores, assisting the Leadership
+
+- The Joy
+	- Bands are actively encouraged to develop traditions, rituals and patterns that suit every member, strengthen unity and bolster morale
+	- Wardens may openly show quirks and be individually distinctive
+	- These freedoms end without comprise where they undermine Ward-traditions, Collective unity and invite corruption 
+<br>
+### The Quiet Watch - Observation, Surveillance, Evaluation & Judgment
+
+- The Watch
+	- A covert observation assignment to a Watcher by The Quiet
+	- Always masked as, and in conjunction with a regular Succouring or a Stewardship transferral
+	- Documents missteps, alarming behavior, tenant-oversteps in general
+	- Files reports and delivers them to The Quiet
+
+- The Watchers
+	- Any eligible Warden temporarily assigned by The Quiet to conduct a Watch
+	- Always anonymous, only The Quiet knows who is currently Watcher
+	- Having undergone past Evaluations prohibits a Warden from ever being assigned Watcher
+
+- The Witnesses
+	- Only in extremely rare cases, mostly when the Jury can not decide between a Parting and a Sundering, the Quiet reveal the identity of the Wacher that filed a report
+	- The Watcher then becomes a Witness and speaks before the Jury
+
+- The Quiet
+	- A collective of Mutes. Tasked with anonymizing Watch-reports, delivering them to the Jury and revealing Identity of the Scrutinized only after a guilty charge is cast.
+	- Also randomly chooses Bands to undergo a Watching, assigns Watchers and coordinates Watches with scheduled Succourings or Stewardships
+	- Chooses and assigns Black Bonds to carry out the execution of Judgements
+	- The Muted are ritual components integral to the execution of the Watch system, not an independent body of power.
+
+- The Jury
+	- Seventeen randomly chosen Wardens that get summoned by the Quiet whenever a Watch has ended
+	- Each Jury only meets once in the same constellation and only decides on one Judging
+	- Any Warden eligible for duty as Watcher is also eligible as Judge
+<br>
+### The Unhallowed Acts - Major Misconducts  & Boundaries
+
+- Stagnation
+- Corruption 
+- Loyalty shifts
+- Scheming
+- Lying
+- ...
 
 
-### The Rules of Severance:
+### The Judgements:
 
-- The Succouring:
-	- Periodically, but never predictably, Wardens are temporary reassigned to a different Hearth for various reasons (Lend specific talents, Increase manpower, share experience)
+- The Marking
+	- A Warden that has been evaluated and only a very minor infraction has been detected, the individual is considered Marked
+	- Markings are always anonymous and only the Quiet track them to a name
+	- The Warden in question is not informed
+	- If a Marked gains a second Mark at any time, the sentence is automatically at least Parting
 
-- The Parting (The Severing?):
-	- In the instance of unrest, unsolvable disagreements, risk of infighting, extraordinary need for a specific Warden in a different Pack etc, one or more members of a Band may at any point be reappointed to a different Band. This is rare, tragic and only done when absolutely necessary 
+- The Parting
+	- Social and structural severance for one specific Warden
+	- Forced, permanent reassignment to another Band to sever unhealthy ties, prevent infighting and shatter budding rebellion
 
-- The Sundering:
+- The Sundering
+	- Social and structural severance for an entire Band
+	- The Band is permanently disbanded and its members are each assigned to a different Band
+
+- The Muting
+	- The Warden is stripped of all his ranks, powers and identity
+	- Tongue removal and partial lobotomy
+	- The Muted serves in The Quiet for life
+
+- The Erasure
+	- Execution by fire. Can apply to individuals or entire Bands.
+
 
 ---
-## The Quiet Observers
+### The Execution
 
-- Black Witnesses, The Mute, The Quiet, The Watchers
-- Corruption control
-- "Secret Police"
+- Carried out by the Black Bonds
+- Black Bonds are no permanent executioners but get assigned by The Quiet on a per Judgement basis
+- Chosen randomly by The Quiet and always at least two Bands strong
 
 ---

@@ -1,3 +1,7 @@
+---
+publish: "true"
+---
+
 #todo 
 
 # Below are the (slightly cleaned up) mechanics from Vilenought:
