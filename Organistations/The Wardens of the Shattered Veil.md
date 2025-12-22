@@ -111,35 +111,39 @@ Every Hunt teaches restraint as much as violence. Every return is an accounting.
 
 ###### I. The Hunt is restrained
 The Ward does not butcher or rage, nor does it kill without cause. Blind violence gnaws at the foundations we stand on. A Warden who kills for pleasure or convenience has failed the Ward, even if the prey lies dead. Indulgence in blood brings us close to becoming what we vowed to erase.
+<br>
 
 ###### II. The Hunt observes
 Potential targets are named, measured, and weighed against doctrine before a drop of blood is shed. To rush blindly is to risk slaying the innocent.
 Ignorance does not carry absolution.
+<br>
 
 ###### III. The Hunt is prepared
 Every Hunt is preceded by preparation, divination, and deliberation.
 Rituals are carried out, not only for tradition’s sake, but to steady the Wardens’ minds against erosion.
 No prey is pursued without deliberation. No ground is entered blindly. To rush is to invite failure and corruption.
+<br>
 
 ###### IV. The Hunt does not linger
 When observation, preparation and deliberation have concluded, the Hunt is decisive. 
 Killing, when sanctioned, is swift.
 Cruelty beyond necessity is taboo. Prolonged violence feeds the Mirror. Lingering cruelty invites change. indulgence in suffering erodes empathy and judgement. Empathy and judgment make us what we are.
-
+<br>
 
 ###### V. The Hunt is Humble
 A Warden does not revel in the afterglow of a Hunt, nor does a Warden boast.
 To kill is to learn. To learn is to grow. A prideful Warden will soon be forgotten.
-
+<br>
 
 ###### VI. When the Doctrine Breaks
-
 There are moments when law bends or shatters. Surprise incursions, breaches of the Hearth, overwhelming assaults from the Wilds.
 
 In such moments, survival eclipses tradition. 
 
 But these exceptions are never forgotten.
+<br>
 
+###### VII. The Hunt is Assessed 
 When the fires die and the wounded are counted, the Hunt is reviewed. Actions taken in necessity are weighed after the fact, and necessity does not grant immunity from judgement.
 
 The Ward endures not because it is flawless - but because it remembers.
@@ -205,6 +209,7 @@ These excursions aim to:
 ---
 # Order Structure, Traditions, Naming Conventions and Hierarchy (Please suggest improvements!):
 <br>
+
 ## I. The Order Itself
 
 - The Ward
