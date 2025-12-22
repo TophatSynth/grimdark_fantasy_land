@@ -1,7 +1,6 @@
 ---
 publish: "true"
 ---
-
 #ToDecide #todo 
 # Naming Options: (Help me out here)
 
