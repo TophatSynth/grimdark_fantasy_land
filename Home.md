@@ -38,6 +38,11 @@ views:
 ---
 ## BoomerNoiza's Notes:
 
+
+> [!WARNING|no-t] Title
+> The "Publish"-Frontmatter is used for Quartz-publishing shenanigans
+
+
 - [x] Moved the Map to its correct Note and created a bunch of blank notes by accident.
 - [x] Continued obsessing over the Wardens
 
@@ -54,4 +59,3 @@ views:
 	- "The Paladins" (Name pending) have a smallish keep in the area
 	- There is at least one Thin-veiled area in the valley, allowing the "Predators" easy access
 
-[^1]: 

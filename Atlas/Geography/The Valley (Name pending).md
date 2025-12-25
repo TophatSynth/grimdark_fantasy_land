@@ -1,3 +1,7 @@
+---
+publish: "true"
+---
+
 #todo #ToDecide 
 
 > [!WARNING|no-i] Meta-level summary for now, until lore and flavor is added. AT least we got a Map right?
