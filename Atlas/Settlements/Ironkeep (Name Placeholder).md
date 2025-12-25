@@ -31,4 +31,11 @@ marker:
 
 --- 
 # Ideas #ToDecide 
-- 
+-  Ili'tha are crafted by the inhabitants of Ironkeep
+    - Their coast lies between the sea and towering stone cliffs, atop which grow the [[Li'ath flowers]]. They simply took what was available around them and made it into a new invention. 
+    - Houses of wooden/bamboo stilts? <- leftover from prev ideas
+- Special types of Ili'tha can be crafted such that the orb can be crushed inside one's mouth, coating the inner surfaces with a more stable solution of the combustible liquid. By blowing forcefully through the mouth, the user can effectively spew out a stream of flames – the closest a non-mage gets to breathing fire. 
+    - Special coating used to protect from the flames? <- different plant? Mud? Magic animal blood? 
+    - Some warriors of the aforementioned village practice extensively with this technique, often fighting with shorter swords or daggers to maximise 
+- Alternatively, warriors train with slings to be able to hurl the equivalent of Molotov cocktails in battle. 
+- Another version of Ili'tha made using less Li'ath oil and solidified sugar instead of glass is considered a delicacy among the aristocracy of the few kingdoms that manage access to Li'ath flowers – whether it be by trade or force.
