@@ -34,6 +34,7 @@ views:
 - Work on alchemy 
 - Spirit fragment types need thinking
 - [x] Add my fireflower idea to [[Ironkeep (Name Placeholder)]] 
+	- MN: {{It is fire. Literally}}
 
 ---
 ## BoomerNoiza's Notes:
