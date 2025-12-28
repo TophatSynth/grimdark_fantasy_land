@@ -21,7 +21,7 @@ Suffixes:
 ---
 # Overview:
 
-An ancient order of Knights, thrust into the ever-shifting landscape of [[The Mirror & The Veil]] centuries ago, during the [[The Great Calamity|Calamity]]. They still inhabit what is left of their former keep, The Hearth, the crumbling structure anchored in relative stability by ancient, yet slowly waning wards. 
+An ancient order of Knights, thrust into the ever-shifting landscape of [[The Mirror & The Veil|The Mirror]] centuries ago, during the [[The Great Calamity|Calamity]]. They still inhabit what is left of their former keep, The Hearth, the crumbling structure anchored in relative stability by ancient, yet slowly waning wards. 
 
 The Ward clings to existence and self-preservation despite the inevitability of being consumed and changed beyond recognition in the end. This forced them to adapt their traditions long ago. They zealously rely on these protocols, dogmas and their existence hinges on them. 
 
@@ -182,7 +182,7 @@ Misclassification is a grave offense. To kill what should have been spared invit
 
 *The Ward*, despite appearing barely Human to those who lay eyes on them, still needs the resources any human society needs. Food, water, ore, timber, manpower. All of these can not reliably be found in *The Mirror*.
 
-To compensate, *The Ward* has taken to combining resource-collection with finding purpose beyond mere existence and enduring. They might not be able to permanently return to reality, but they **can** cross [[The Veil]] temporarily.
+To compensate, *The Ward* has taken to combining resource-collection with finding purpose beyond mere existence and enduring. They might not be able to permanently return to reality, but they **can** cross [[The Mirror & The Veil|The Veil]] temporarily.
 
 These excursions aim to:
 - Gain insight and information about the state of (and time passed in) Reality
