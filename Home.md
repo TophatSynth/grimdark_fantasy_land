@@ -1,4 +1,3 @@
-
 # Our super-secret Homepage and workshop headquarters
 
 ---
