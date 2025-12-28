@@ -8,7 +8,7 @@ Done: "False"
 - Mostly (If not only) known and used in the wilderness of the Northern Expanse
 - Has generally two Subcategories: **Spirit Communing** and **Spirit Absorption**
 - Can generally **not** be learnt. One can or can not use it.
-- It is important to note, that [[Elder Spirits]] and [[Spirit Fragments]] do **not** originate from the [[The Mirror|Mirror]], but the [[The Spirit Realm|Spirit Realm]] of reality
+- It is important to note, that [[Elder Spirits]] and [[Spirit Fragments]] do **not** originate from the [[The Mirror & The Veil|Mirror]], but the [[The Spirit Realm|Spirit Realm]] of reality
 <br>
 ### Spirit Communing:
 - Simply said, one invites nearby [[Elder Spirits]] to their camp.

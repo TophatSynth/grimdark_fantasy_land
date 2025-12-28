@@ -22,7 +22,7 @@ Suffixes:
 ---
 # Overview:
 
-An ancient order of Knights, thrust into the ever-shifting landscape of [[The Mirror]] centuries ago, during the [[The Great Calamity|Calamity]]. They still inhabit what is left of their former keep, The Hearth, the crumbling structure anchored in relative stability by ancient, yet slowly waning wards. 
+An ancient order of Knights, thrust into the ever-shifting landscape of [[The Mirror & The Veil]] centuries ago, during the [[The Great Calamity|Calamity]]. They still inhabit what is left of their former keep, The Hearth, the crumbling structure anchored in relative stability by ancient, yet slowly waning wards. 
 
 The Ward clings to existence and self-preservation despite the inevitability of being consumed and changed beyond recognition in the end. This forced them to adapt their traditions long ago. They zealously rely on these protocols, dogmas and their existence hinges on them. 
 

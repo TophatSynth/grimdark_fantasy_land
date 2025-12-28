@@ -3,7 +3,7 @@
 - Mostly (If not only) known and used in the wilderness of the Northern Expanse
 - Has generally two Subcategories: **Spirit Communing** and **Spirit Absorption**
 - Can generally **not** be learnt. One can or can not use it.
-- It is important to note, that [[Elder Spirits]] and [[Spirit Fragments]] do **not** originate from the [[The Mirror|Mirror]], but the [[The Spirit Realm|Spirit Realm]] of reality
+- It is important to note, that [[Elder Spirits]] and [[Spirit Fragments]] do **not** originate from the [[The Mirror & The Veil|Mirror]], but the [[The Spirit Realm|Spirit Realm]] of reality
 
 ## Veil Scarring/?Weaving (Somehow attached to the name)?: #todo
 - Leftover knowledge from aeons ago, before the [[Calamity]]. Extremely rare and dangerous these days
@@ -15,7 +15,7 @@
 	- In practice this is represented by **Backlash, Variable** in each Spell
 
 ## Mirror-Touched:
-- These are mutations caused by exposed to areas of particularly weak veil, being in proximity to [[Veilborn Beings]], or even physically entering the [[The Mirror|Mirror]]. 
+- These are mutations caused by exposed to areas of particularly weak veil, being in proximity to [[Veilborn Beings]], or even physically entering the [[The Mirror & The Veil|Mirror]]. 
 - The exact effect of these mutations can vary widely and range from minor cosmetic effects to powerful supernatural abilities.
 - Mirror-Touched and Veilborn are by far the most unpredictable when it comes to their hidden abilities
 - Being a Mirror-Touched generally is seen as a bad omen at least, but more often as reason to be put to the axe or flame.

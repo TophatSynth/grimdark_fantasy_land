@@ -2,6 +2,10 @@
 
 - All are Wardens and combat/hunt capable. These are functional specializations
 
+- Accolades and Accomplishments within a role do **not** officially bring increased authority, but inofficially and in the field the experienced and revered Wardens are often held in high regards even if they currently do not act as Bandmaster
+
+### The Roles:
+
 - Wardbearer
 	- Magical specialist. Knowledge of the Mirror's secrets, wards, circles, rituals, veil-tearing
 	- Typically 1 per Band
@@ -19,3 +23,20 @@
 	- Primary combatants and trackers
 	- Most visibly mutated
 	- Melee & Ranged proficiency
+
+- Bandmaster
+	- Tactical leader of a Band; final authority in the field.
+	- Not a permanent position, rotates according to Hunt requirements
+
+---
+
+### Leadership & Composition
+
+Given the need to form strong bonds within Bands and thus, forging them when the Wardens are young, often right after having formally risen, exact composition varies. A few rules must always be followed:
+
+- No Band ever counts more than 8 or less than 4 Wardens
+- Every Band must at least include one Warden of each role
+- In the event of a Parting, Muting or Erasure occurring or a Warden fading, the Band only gets a new member assigned in case only 3 Wardens would be left or a role would be unfilled.
+- Leadership within a Band is rotating among the Wardens. Before each Hunt, it is evaluated and voted upon, who's expertise best fits the requirements.
+
+---
