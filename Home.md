@@ -15,12 +15,15 @@ views:
   - type: table
     name: Table
     order:
+      - file.folder
       - file.name
     sort:
+	  - property: file.folder
+	    direction: ASC
       - property: file.ctime
         direction: DESC
     columnSize:
-      file.name: 400
+      file.folder: 175
 
 ```
 
@@ -35,6 +38,7 @@ views:
 - Spirit fragment types need thinking
 - [x] Add my fireflower idea to [[Ironkeep (Name Placeholder)]] 
 	- MN: {{It is fire. Literally}}
+	- TH: {{lmao, ty}}
 
 ---
 ## BoomerNoiza's Notes:
