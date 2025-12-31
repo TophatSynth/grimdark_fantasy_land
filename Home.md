@@ -47,6 +47,8 @@ views:
 > The "Publish"-Frontmatter is used for Quartz-publishing shenanigans
 > The "index" File is needed for Quartz also
 
+- [[Ironkeep (Name Placeholder)]] has a Infobox, let me know if you like it (Needs ITS Snippet to work)
+
 - Should one of the Towns be a little bigger? Maybe the Ocean one, so you have more room to play with? Have a couple other fitting maps too
 
 - Would like an Alchemy-System (Tophead hard at work - Nice!)
