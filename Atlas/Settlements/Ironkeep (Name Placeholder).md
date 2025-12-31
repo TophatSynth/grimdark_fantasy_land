@@ -1,7 +1,10 @@
+---
+publish: "true"
+title: Ironkeep
+---
+
 Salt, wind, cold, moist. Also fish
 #todo 
-
-
 
 ---
 
@@ -29,8 +32,30 @@ marker:
 
 ```
 
---- 
+---
+
+> [!infobox]
+> ## Ironkeep (Name Placeholder) 
+> ![[Ironkeep_Small.jpg|cover hsmall]]
+> ###### Overview
+> | | |
+> | ---- | ---- |
+> | Aliases | None |
+> | Type | Testing |
+> | Function | Stat |
+> | Location | Testing |
+> | Population | Testing |
+> | Inhabitants | Testing |
+> | Condition | Testing |
+> | Governance | Testing |
+> | Relations | Testing |
+> | Organisations | Testing |
+> | People of note | Testing |
+> | Places of note | Testing |
+> | Primary religions | Testing |
+
 # Ideas #ToDecide 
+
 -  Ili'tha are crafted by the inhabitants of Ironkeep
     - Their coast lies between the sea and towering stone cliffs, atop which grow the [[Li'ath flowers]]. They simply took what was available around them and made it into a new invention. 
     - Houses of wooden/bamboo stilts? <- leftover from prev ideas
