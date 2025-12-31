@@ -45,11 +45,9 @@ views:
 
 > [!WARNING|no-t] Title
 > The "Publish"-Frontmatter is used for Quartz-publishing shenanigans
+> The "index" File is needed for Quartz also
 
-- Should one of the Towns be a little bigger? Maybe the farming one?
-
-- [x] Moved the Map to its correct Note and created a bunch of blank notes by accident.
-- [x] Continued obsessing over the Wardens
+- Should one of the Towns be a little bigger? Maybe the Ocean one, so you have more room to play with? Have a couple other fitting maps too
 
 - Would like an Alchemy-System (Tophead hard at work - Nice!)
 
