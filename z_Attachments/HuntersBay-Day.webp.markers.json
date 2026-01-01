@@ -1,0 +1,31 @@
+{
+  "image": "z_Attachments/HuntersBay-Day.webp",
+  "size": {
+    "w": 4800,
+    "h": 6000
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "z_Attachments/HuntersBay-Day.webp"
+  ],
+  "overlays": [],
+  "activeBase": "z_Attachments/HuntersBay-Day.webp",
+  "measurement": {
+    "displayUnit": "auto-metric",
+    "scales": {},
+    "travelTimePresetIds": []
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": []
+}

@@ -1,0 +1,31 @@
+{
+  "image": "z_Attachments/Ironkeep_Small.jpg",
+  "size": {
+    "w": 736,
+    "h": 467
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "z_Attachments/Ironkeep_Small.jpg"
+  ],
+  "overlays": [],
+  "activeBase": "z_Attachments/Ironkeep_Small.jpg",
+  "measurement": {
+    "displayUnit": "auto-metric",
+    "scales": {},
+    "travelTimePresetIds": []
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": []
+}
