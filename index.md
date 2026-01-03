@@ -3,7 +3,7 @@ publish: "true"
 ---
 # Landing Page (WIP)
 <br>
-This is the part of our (Tophat & Noiza) WOrldbuilding project that we are willing to share. It will get expanded and worked on in due time.
+This is the part of our (Tophat & Noiza) Worldbuilding project that we are willing to share. It will get expanded and worked on in due time.
 <br>
 
 ## Table of contents
