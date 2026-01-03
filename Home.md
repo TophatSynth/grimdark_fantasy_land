@@ -26,6 +26,30 @@ views:
 
 ```
 
+```base
+filters:
+  or:
+    - file.tags.contains("toDecide")
+properties:
+  file.folder:
+    displayName: Folder
+  file.name:
+    displayName: To decide on
+views:
+  - type: table
+    name: Table
+    order:
+      - file.folder
+      - file.name
+    sort:
+	  - property: file.folder
+	    direction: ASC
+      - property: file.ctime
+        direction: DESC
+    columnSize:
+      file.folder: 175
+
+```
 ---
 ## Notes here:
 
