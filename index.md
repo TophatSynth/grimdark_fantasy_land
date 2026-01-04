@@ -15,6 +15,7 @@ The Wardens of the Shattered Veil:
 - [[4. The Hunt]]
 - [[5. The Hearth]]
 - [[6. The Tendrils (Name pending)]]
+- [[7. From Tribute to Warden]]
 
 ---
 The Mirror and Reality:
