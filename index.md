@@ -6,10 +6,9 @@ publish: "true"
 This is the part of our (Tophat & Noiza) Worldbuilding project that we are willing to share. It will get expanded and worked on in due time.
 <br>
 
-## Table of contents
+## Table of Contents
 
 The Wardens of the Shattered Veil:
-<br>
 - [[1. Overview]]
 - [[2. The Band]]
 - [[3. Corruption & The Change]]
@@ -18,8 +17,11 @@ The Wardens of the Shattered Veil:
 - [[6. The Tendrils (Name pending)]]
 
 ---
+The Mirror and Reality:
+[[The Mirror & The Veil]]
+
+---
 Magic:
-<br>
 - [[Magic/Veil-Scarring (Or Essence Weaving)|Veil-Scarring (Or Essence Weaving)]]
 
 
