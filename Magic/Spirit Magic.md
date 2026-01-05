@@ -20,12 +20,12 @@ Done: "False"
 ### Spirit Absorption:
 - [[Spirit Fragments]], in contrast to [[Elder Spirits]] are generally not viewed as sentient, at least of not in any way we can identify.
 - This Practice sees the user absorb a wild spirit fragment into their body to gain specific benefits for a relatively short amount of time and with certain drawbacks.
-- The known types of Spirit Fragments are:
-	- Fire
-	- Water
-	- Death
-	- Air
-	- Rott
-	- (More to come) 
+- The known types of Spirit Fragments are: #ToDecide on names
+	- Burst 
+	- Warmth
+	- Flow
+	- Stagnation
+	- Growth
+	- Rot
 <br>
 ## Spirit Bargains:

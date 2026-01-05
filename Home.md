@@ -3,8 +3,10 @@
 ---
 ```base
 filters:
-  or:
+  and:
     - file.tags.contains("todo")
+    - not:
+      - file.infolder("Atlas")
 properties:
   file.folder:
     displayName: Folder
