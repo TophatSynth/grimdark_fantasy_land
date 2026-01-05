@@ -9,8 +9,21 @@ This is the part of our (Tophat & Noiza) Worldbuilding project that we are willi
 ## Table of Contents
 
 The Wardens of the Shattered Veil:
-- [[1. Overview]]
-- [[2. The Band]]
+
+
+> [!column|no-t]
+>> [!info|clean no-t] Column 1
+>> - [[1. Overview]]
+>> - [[2. The Band]]
+>> - [[2.1. The Wardbearers|The Wardbearers (Placeholder)]]
+>> - 
+>
+>> [!note|clean no-t] Column 2
+>> Need that singular blockquote `>` as separation between columns
+
+
+
+
 - [[3. Corruption & The Change]]
 - [[4. The Hunt]]
 - [[5. The Hearth]]
