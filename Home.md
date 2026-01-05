@@ -59,6 +59,7 @@ views:
 - Need to read up on all the lore so far, then re-organise them so it's a lil clearer
  - [x] Use bases to make TOC 
 	- [ ] Show number of todo tags per file?
+	- MN: That would be cool and helpful!
 - Work on alchemy 
 - Spirit fragment types need thinking
 - [x] Add my fireflower idea to [[Ironkeep (Name Placeholder)]] 
