@@ -15,16 +15,21 @@ The Wardens of the Shattered Veil:
 >> [!info|clean no-t] Column 1
 >> - [[1. Overview]]
 >> - [[2. The Band]]
->> - [[2.1. The Wardbearers|The Wardbearers (Placeholder)]]
->> - 
+>> 	- [[2.1. The Wardbearers|The Wardbearers (Placeholder)]]
+>> 	- [[2.2. The Scribes|The Scribes (Placeholder)]]
+>> 	- [[2.3. The Envoys|The Envoys (Placeholder)]]
+>> 	- [[2.4. The Hunters|The Hunters (Placeholder)]]
+>> - [[3. Corruption & The Change]]
+>> 	- [[3.1. Typical Mutations|Typical Mutations (Placeholder)]]
 >
 >> [!note|clean no-t] Column 2
->> Need that singular blockquote `>` as separation between columns
+>>
+>> - 
 
 
 
 
-- [[3. Corruption & The Change]]
+
 - [[4. The Hunt]]
 - [[5. The Hearth]]
 - [[6. The Tendrils (Name pending)]]
