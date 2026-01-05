@@ -23,17 +23,15 @@ The Wardens of the Shattered Veil:
 >> 	- [[3.1. Typical Mutations|Typical Mutations (Placeholder)]]
 >
 >> [!note|clean no-t] Column 2
->>
->> - 
+>>- [[4. The Hunt]]
+>>- [[5. The Hearth]]
+>>	- [[5.1. The Vault]]
+>>- [[6. The Tendrils (Name pending)]]
+>>- [[7. From Tribute to Warden]]
 
 
 
 
-
-- [[4. The Hunt]]
-- [[5. The Hearth]]
-- [[6. The Tendrils (Name pending)]]
-- [[7. From Tribute to Warden]]
 
 ---
 The Mirror and Reality:
