@@ -15,7 +15,7 @@ The Wardens of the Shattered Veil:
 >> [!info|clean no-t] Column 1
 >> - [[1. Overview]]
 >> - [[2. The Band]]
->> 	- [[2.1. The Wardbearers|The Wardbearers (Placeholder)]]
+>> 	- [[2.1. The Wardbearers]]
 >> 	- [[2.2. The Scribes|The Scribes (Placeholder)]]
 >> 	- [[2.3. The Envoys|The Envoys (Placeholder)]]
 >> 	- [[2.4. The Hunters|The Hunters (Placeholder)]]
