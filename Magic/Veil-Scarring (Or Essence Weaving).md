@@ -100,6 +100,7 @@ publish: "true"
 - Each school/discipline of magic has its own dedicated backlash table
 - After every weaving, the caster rolls on **all** associated Backlash-Tables. The roll is modified by FP spend, so more powerful weavings risk more extreme backlashes
 - The roll is further modified if the weaving-roll was a failure
+- **Maybe omit for now, too complicated**
 <br>
 ## [Attracts Threats:](https://gurps.fandom.com/wiki/Power-Ups_8:_Limitations)
 - Weaving magic **always** carries the risk of attracting unwanted attention
@@ -108,8 +109,22 @@ publish: "true"
 - Every spell is a great risk of catastrophic failure.
 - It is mandatory for every spell-power to have *Radically unstable Magery, -10%*
 - #ToDecide
+- Probably overkill. Will Bench for now
 <br>
 ## Mandatory Enhancements & Limitations:
-- WIP
-- #todo 
+- **Requires Skill-Roll (Essence-Weaving)** [-10%],
+	OR if Trait already requires Roll:
+- Based on Different Attribute (Essence Attunement), own roll [+20%]
+- **Magical** [-10%],
+- **Requires Gesture** [-10%],
+- **Requires Word** [-10%],
+- **Transcribable** [+5%],
+- **Attracts Threats** (CR 9) [-10%],
+- **Corrupting** (1 Corruption point/Energy spend) [-20%],
+<br>
+- _After_ all the above:  
+    
+- **Costs ER** (-5% per ER, 1 ER per 10 CP base cost) [Variable],
+
+- Finally _after all other calculations_ every spell gets **Alternative Ability** (Costs 1/5th)
 
