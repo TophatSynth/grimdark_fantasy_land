@@ -13,7 +13,7 @@ The Wardens of the Shattered Veil:
 
 > [!column|no-t]
 >> [!info|clean no-t] Column 1
->> - [[1. Overview]]
+>> - [[Organisations/1. The Wardens of the Shattered Veil/1. Overview]]
 >> - [[2. The Band]]
 >> 	- [[2.1. The Wardbearers]]
 >> 	- [[2.2. The Scribes|The Scribes (Placeholder)]]

@@ -27,6 +27,6 @@ Every particle of the Mirror is fractured however. Fractured and twisted in such
 <br>
 Time is fickle in the Mirror, even more so than space. One might spend a day there and a week has come and gone in Reality. The next day only two could have passed.
 
-During all flux of the passing of time, one thing is somewhat constant: Time generally moves slower in the Mirror. As do Beings, and people, in the Mirror age slower. To this day there are Members of the [[1. Overview|Wardens of the Shattered Veil]] that count their years beyond a century but look like they are still in their late 40s.
+During all flux of the passing of time, one thing is somewhat constant: Time generally moves slower in the Mirror. As do Beings, and people, in the Mirror age slower. To this day there are Members of the [[Organisations/1. The Wardens of the Shattered Veil/1. Overview|Wardens of the Shattered Veil]] that count their years beyond a century but look like they are still in their late 40s.
 
 ---
