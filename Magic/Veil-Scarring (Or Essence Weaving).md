@@ -68,13 +68,13 @@ publish: "true"
     - Once prepared, the weaver has a **single** casting of the spell ready
     - ?_Desperately_ prepared spells lead to increased “Essence Residue”-buildup in the weaver (raised by two (2) levels)?
         
-- **Preperation-Slots:**
+- **Preparation-Slots:**
     
     - For each instance of Weaving Empowerment **one** (1) spell may be (desperately) prepared
         
     - Additional instances of Weaving Empowerment may be bought
         
-    - Each prep-slot **only** allows preperation of spells from its type of magic
+    - Each prep-slot **only** allows preparation of spells from its type of magic
 <br>
 ## Aspect-Skill-roll to cast:
 
