@@ -8,7 +8,7 @@
 ## Veil Scarring/?Weaving (Somehow attached to the name)?: #todo
 - Leftover knowledge from aeons ago, before the [[Calamity]]. Extremely rare and dangerous these days
 - Uses a modified version of our Vilenought-Magic System
-- There will be **no** hardcore improvisation + improvisation. There will be however, temporary enhancements of spells (added damage, range, area, extra time taken, extra duration, etc)
+- There will be **no** hardcore improvisation + improvisation. There will be, however, temporary enhancements of spells (added damage, range, area, extra time taken, extra duration, etc)
 - New Addition - "Realistic" Backlash:
 	- Example: To cast fireball, one needs to first accumulate heat from the surrounding area and themselves (leading to potential hypothermia and frostbite as Backlash), then shape it (Using Pressure - Potentially with additional Backlash) and throw it.
 	- This is achieved by: Individual Backlash Tables for each "School of Magic" (Heat/Cold, Pressure, Time, Gravity, etc). After every casting roll, one rolls on the appropriate Backlash table, adding for FP spend (keeping in mind temporary enhancements done to the spell like extra damage, extra range, extra time taken, etc)
