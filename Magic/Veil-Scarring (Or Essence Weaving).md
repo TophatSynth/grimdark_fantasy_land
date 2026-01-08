@@ -4,7 +4,7 @@ publish: "true"
 
 #todo 
 
-# Below are the (slightly cleaned up) mechanics from Vilenought:
+# Below are the (slightly cleaned/simplified up) mechanics from Vilenought:
 
 ## Basic Concept:
 
@@ -16,7 +16,7 @@ publish: "true"
     - EA 10-11: “Weaving-Talent” 1, EA 12-13: “Weaving-Talent” 2, EA 14-15: “Weaving-Talent” 3 and so on
 <br>
 - **Essence Reserve** & HP:
-    - Spells can only be paid for with ER and HP, _not_ with regular FP!
+    - Spells can only be paid for with ER or double the ER in HP, _not_ with regular FP!
     - ER recharges at 1/hour (Slow Recharge, -20%)
     - Recharge can be increased by meditation
     - Increase by: (Meditation-Level/10)*2
@@ -24,19 +24,19 @@ publish: "true"
         - Round any decimals
 <br>
 - **Spells are Powers and Skills**:
-	- Each Spell is build as a Power with mandatory Enhancements/Limitations
-    - Each spell requires a casting roll against an **Aspect Skill** and, if relevant, a second roll **to attack** (Innate attack).
-    - Each Aspect Skill is a (VH) EA skill that defaults to EA-based Thaumatology-5
-    - A defaulted Aspect Skill cannot be higher than 15
-    - If a spell belongs to multiple aspects, then the caster rolls against all of those Aspect Skills.
-    - Aspect Skill Rolls are modified by the Weaving-Talent level
+	- Each Spell is build as a Power with [[Magic/Veil-Scarring (Or Essence Weaving)#Mandatory Enhancements & Limitations|mandatory Enhancements/Limitations]]
+    - Each spell requires a casting roll against *Essence Weaving Skill* and, if relevant, a second roll **to attack** (Innate attack).
+    - Essence Weaving is a VH skill that defaults to EA-based Thaumatology-5
+    - A defaulted Essence Weaving cannot be higher than 15
+    - Essence Weaving Rolls are modified by the Weaving-Talent level
 <br>
 - **Weaving Talents**:
     - Each Discipline is represented by a _Talent_ (Essentially replacing Magery)
     - Each Talent costs **5 CP/Level**
-    - Talent lvl gives a bonus on associated **Aspect-skill Rolls**
+    - Talent lvl gives a bonus to Essence Weaving Rolls
     - Talent lvl gives a bonus on learning/creating associated Spells
     - Talent level is capped by EA
+    - If a spell belongs to multiple aspects, then only the lowest Weaving Talent contributes.
 <br>
 ---
 ## Weaving Empowerment:
@@ -49,7 +49,7 @@ publish: "true"
     
 - Cost of spells, excluding “Alternative Ability” can not exceed cost of Weaving Empowerment
     
-- Learning an “Empowerment” unlocks **very** basic spells on lvl 1 **for free** (List pending)
+- Learning an “Empowerment” unlocks **very** basic spells **for free** (List pending)
 <br>
 - **Temporary Preparation:**
     
@@ -76,9 +76,10 @@ publish: "true"
         
     - Each prep-slot **only** allows preparation of spells from its type of magic
 <br>
-## Aspect-Skill-roll to cast:
+---
+## Skill-roll to cast:
 
-- One Roll on each corresponding Aspect-Skill (modified by Weaving-Talent) in order of usage in casting
+- Essence Weaving Roll (modified by corresponding Weaving-Talent)
 - Spontaneous enhancements of known spells (Damage, Range, Duration, etc)
 - Spontaneous modification of casting parameters (Time spend, Energy spend, Rituals used, etc)
 - Penalties can be balanced out by spending more FP/HP and/or adjusting the casting parameters
@@ -86,45 +87,44 @@ publish: "true"
 - Spells can be modified in a more stable, prepared manner too
 	- See Spell modification - Stable for details
 <br>
+---
 ## Acquiring new Spells:
 
-- Only known styles/aspects can be used for spell construction
+- Only known Aspects can be used for spell construction
 - Only when logically sound, can a new spell be constructed without outside help
 - E.g. Fireball might need Matter, Heat and Pressure & Knowledge of “Create Fire” and “Gust” (Many routes might be feasible)
 - Only exception: Learning from detailed written accounts or teachers
 - Spell (Power) cost (after “Alternative Ability-Limitation”) can not exceed points in “Weaving Empowerment”
 <br>
-## [Backlash:](https://gurps.fandom.com/wiki/Backlash)
-- Weaving magic **always** carries the risk of backfiring
-- By default **every** spell has *Backlash, Variable* (Priced like [Costs Fatigue, Variable](https://gurps.fandom.com/wiki/Costs_Fatigue,_Variable))
-- Each school/discipline of magic has its own dedicated backlash table
-- After every weaving, the caster rolls on **all** associated Backlash-Tables. The roll is modified by FP spend, so more powerful weavings risk more extreme backlashes
-- The roll is further modified if the weaving-roll was a failure
-- **Maybe omit for now, too complicated**
-<br>
-## [Attracts Threats:](https://gurps.fandom.com/wiki/Power-Ups_8:_Limitations)
-- Weaving magic **always** carries the risk of attracting unwanted attention
-<br>
-## [Radically Unstable Magery](https://gurps.fandom.com/wiki/Radically_Unstable_Magery)
-- Every spell is a great risk of catastrophic failure.
-- It is mandatory for every spell-power to have *Radically unstable Magery, -10%*
-- #ToDecide
-- Probably overkill. Will Bench for now
-<br>
+---
 ## Mandatory Enhancements & Limitations:
 - **Requires Skill-Roll (Essence-Weaving)** [-10%],
 	OR if Trait already requires Roll:
-- Based on Different Attribute (Essence Attunement), own roll [+20%]
+- Based on Different Attribute ((Essence Attunement (Essence Weaving Skill)), own roll [+20%]
 - **Magical** [-10%],
 - **Requires Gesture** [-10%],
 - **Requires Word** [-10%],
 - **Transcribable** [+5%],
 - **Attracts Threats** (CR 9) [-10%],
 - **Corrupting** (1 Corruption point/Energy spend) [-20%],
+
+After all the above:
+
+- **Costs ER/Double HP** (-10% per ER/2 HP, 1 ER/ 2 HP per 10 CP base cost) [Variable],
+
+Finally _after all other calculations_ every spell gets **Alternative Ability** (Costs 1/5th)
 <br>
-- _After_ all the above:  
-    
-- **Costs ER** (-5% per ER, 1 ER per 10 CP base cost) [Variable],
 
-- Finally _after all other calculations_ every spell gets **Alternative Ability** (Costs 1/5th)
+**Corrupting**
+- Essence Weaving pulls its primary source of energy (Essence) directly from the Mirror
+- All energy pulled from the Mirror carries corruption (Fracture) with it into the Weaver
+- Every point of essence used leaves a residue of Fracture in the Weaver
+- At certain thresholds, the Fracture takes over and the Weaver must resist or mutate.
+- It is mandatory for every weaving spell to have *Corrupting, -20%*
+<br>
 
+**[Radically Unstable Magery](https://gurps.fandom.com/wiki/Radically_Unstable_Magery)**
+- Every spell is a great risk of catastrophic failure.
+- It is mandatory for every spell-power to have *Radically unstable Magery, -10%*
+- Probably overkill. Will Bench for now
+- **On the Bench... For now!**
