@@ -65,6 +65,7 @@ views:
 - [x] Add my fireflower idea to [[Ironkeep (Name Placeholder)]] 
 	- MN: {{It is fire. Literally}}
 	- TH: {{lmao, ty}}
+- [ ] Make and stat more mutations
 
 ---
 ## BoomerNoiza's Notes:
