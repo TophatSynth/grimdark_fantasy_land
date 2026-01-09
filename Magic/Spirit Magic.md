@@ -28,4 +28,6 @@ Done: "False"
 	- Growth
 	- Rot
 <br>
-## Spirit Bargains:
+## Spirit Bargains: #todo 
+
+## Spirit Summoning
