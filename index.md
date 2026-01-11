@@ -61,7 +61,7 @@ This is the part of our (Tophat & Noiza) Worldbuilding project that we are willi
 > 
 > Amid the remnants of this broken world, twisted Horrors roam the lands, enabled to enter Reality by the areas where the Veil remains weak, or by careless humans, ignoring the lessons of the past and practicing *Essence Weaving*. 
 > 
-> Human civilization and it's influence is amost entirely confined to heavily fortified towns and villages, even the smallest hamlets boasting at least a shallow moat and wooden palisade.
+> Human civilization and it's influence is almost entirely confined to heavily fortified towns and villages, even the smallest hamlets boasting at least a shallow moat and wooden palisade.
 > 
 > Farming and agriculture is only possible in the "Enlightened Zones" a few miles around settlements at most, areas deforested and heavily guarded and patrolled, but still only dared to be worked during daytime.
 > 
