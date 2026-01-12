@@ -2,3 +2,4 @@
 - Some Unhallowed mutations lead not to erasure or Muting but to use as weapons (eg Berserk)
 - special geneseed per role
 - Magic items that corrupt (Stored in the vault, handed out in dire situations)
+- The Rebirth: Tendril with cells, unbound are locked up
