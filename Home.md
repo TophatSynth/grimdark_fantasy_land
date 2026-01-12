@@ -71,21 +71,19 @@ views:
 ## BoomerNoiza's Notes:
 
 
-> [!WARNING|no-t] Title
-> The "Publish"-Frontmatter is used for Quartz-publishing shenanigans
-> The "index" File is needed for Quartz also
+> [!WARNING|no-t] Recently Added
+> - [[1.1. The Stewardship]]
+
+
 
 - [[Ironkeep (Name Placeholder)]] has a Infobox, let me know if you like it (Needs ITS Snippet to work)
 
 - Should one of the Towns be a little bigger? Maybe the Ocean one, so you have more room to play with? Have a couple other fitting maps too
 
-- Would like an Alchemy-System (Tophead hard at work - Nice!)
 
 - Flora & Fauna: Should we go full fantastical or use real world animals at least to keep things grounded (and less work)?
 	- TH: {I'd say go with what we did for Vilenought. Real world animals, corrupted by the veil}
 		- MN: {{I agree. Easier for immersion and less Exposition also}}
-
-
 
 - Ideas to add for the Sandbox/Brainstorm Area:
 	- Fortified Inns along the roads (The chain broken and Inns varying widely in architecture and state of repair)
