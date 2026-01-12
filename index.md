@@ -76,7 +76,7 @@ This is the part of our (Tophat & Noiza) Worldbuilding project that we are willi
 
 
 ```dataview
-TABLE file.folder AS "Folder", file.mday AS "Date Added/Modified"
+TABLE file.folder AS "Folder"
 WHERE publish
 SORT file.mday DESCENDING, file.folder ASCENDING
 LIMIT 20
