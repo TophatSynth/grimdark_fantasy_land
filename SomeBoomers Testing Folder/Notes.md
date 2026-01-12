@@ -1,0 +1,4 @@
+- Meditation instead of sleep
+- Some Unhallowed mutations lead not to erasure or Muting but to use as weapons (eg Berserk)
+- special geneseed per role
+- Magic items that corrupt

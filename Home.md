@@ -72,7 +72,8 @@ views:
 
 
 > [!WARNING|no-t] Recently Added
-> - [[1.1. The Stewardship]]
+> - [[1.2. The Stewardship]]
+> - [[1.3. The Joy & The Self]]
 
 
 
