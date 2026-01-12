@@ -75,8 +75,9 @@ This is the part of our (Tophat & Noiza) Worldbuilding project that we are willi
 > The Veil grows ever thinner. The Mirror's influence spreads. The world teeters on the edge of oblivion, and those who remain struggle to survive, ever haunted by the echoes of their past mistakes and the looming darkness of their future.
 
 
-
-
-
-
-
+```dataview
+TABLE file.folder AS "Folder", file.mday AS "Date Added/Modified"
+WHERE publish
+SORT file.mday DESCENDING, file.folder ASCENDING
+LIMIT 20
+```
