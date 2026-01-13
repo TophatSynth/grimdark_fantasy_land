@@ -51,5 +51,5 @@ In these days, there are 4 settlements worth mentioning:
 - [[Wintermore (Name placeholder)]] high up in [[The Ironroot Mountains (Name placeholder)]], echoing with the sound of anvils in the forges and pickaxes deep down in the mines
 
 Additional information of note:
-- There is a rather small but heavily fortified and maintained fortress of the [[Organisations/2. {The Order of the cleansing Flame}|Order of the Cleansing Flame (Name pending)]] (Location panding)
+- There is a rather small but heavily fortified and maintained fortress of the [[Organisations/2. {The Order of the cleansing Flame}|Order of the Cleansing Flame (Name pending)]] (Location pending)
 - There *are* areas of thin [[The Mirror & The Veil|Veil]] and incursions by the [[Organisations/1. The Wardens of the Shattered Veil/1. Overview|Wardens of the Shattered Veil]] happen occasionally
