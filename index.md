@@ -3,6 +3,10 @@ publish: "true"
 ---
 # Landing Page (WIP)
 <br>
+
+> [!Warning]
+> Currently under heavy construction. Pages are being reorganized
+
 This is the part of our (Tophat & Noiza) Worldbuilding project that we are willing to share. It will get expanded and worked on in due time.
 
 ---
