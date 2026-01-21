@@ -60,8 +60,10 @@ views:
  - [x] Use bases to make TOC 
 	- [ ] Show number of todo tags per file?
 	- MN: That would be cool and helpful!
-- Work on alchemy 
-- Spirit fragment types need thinking
+- [ ] Work on alchemy 
+- [ ] Spirit fragment types need thinking
+- [ ] Spirit summoning
+- [ ] Spirit deals
 - [x] Add my fireflower idea to [[Ironkeep (Name Placeholder)]] 
 	- MN: {{It is fire. Literally}}
 	- TH: {{lmao, ty}}
