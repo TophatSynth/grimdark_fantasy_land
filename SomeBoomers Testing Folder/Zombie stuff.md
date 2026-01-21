@@ -15,3 +15,22 @@ The Mirror is a horrific, twisted, warped parallel dimension of reality. A dark,
 
 Wide cinematic composition, bleak and grim dark atmospheric fantasy art style, foreboding dramatic lighting, gritty textures, disturbing gothic horror atmosphere, high detail, strong depth and contrast.
 <lora:Industrial_Ink__Wash:1> <lora:Dark_Gothic_Horror_Eerie_Shadows_of_Macabre_Fantasy_Worlds:0.6>
+
+
+
+1. _Phil continues the chat with David._ "Yes, we will get you fuel. When we move, keep your distance to us like you've been doing so far. You good sleeping in the vehicle? Give us a warning in the radio, if you see any unwanted movement around. Keep yourself hidden. Do not honk, in the worst situation we are not answering the radio, use the lights. Okay? I need to go, but we'll keep in contact." *He listens to David's answer and then turns around, readies his weapon and says: "Ok Moore, double time back to the vehicles, our group is dispersing."
+   
+
+Dav: *At the mention of the infected David looks around rather frantically, his hands clutching the wheel again* "Oh.... Ok I.... I will try...." *He peeks over towards the house again where the two other men are standing close to the building* "Sir, do you think it would be ok if.... if I pulled up a bizt closer to the house?" *He quickly adds* "I.... I won't get in your way or anything I promise!"
+
+*Having an idea he rummages through his belongings and pulls out two packs of cigarettes and holds them up towards the man* "I.... I don't have much but maybe you have a use for these?" (The packs are unopened, the brand is Rothmans Red, and Phil can clearly see a bunch more packs among David's stuff)
+
+---
+
+
+| The Mirror       |
+| ---------------- |
+| The Veil         |
+| The Spirit Realm |
+| Reality          |
+|                  |

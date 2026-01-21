@@ -1,6 +1,7 @@
 ---
 publish: "true"
 ---
+![[00031-1016452489.webp]]
 
 > [!quote|author] Source unknown
 > Beyond our world, far removed, but close enough to touch it, yet forever distant and cut off by the Veil, lies the Mirror. A feint imprint of the reality we are so sure we call our own. Cut off... Or so we thought.
@@ -24,7 +25,7 @@ The Mirror is not a incorporal illusion. It is material and real in it's own sen
 
 Every particle of the Mirror is fractured however. Fractured and twisted in such a fundamental way that it is incompatible with us beings from this plane. Stepping through the Veil will inevitably lead to change. So will drawing on the Fracture, pulling the power, the "Essence" as the Scholars, Loremasters and Weavers call it, to fuel rituals and spells.
 <br>
-Time is fickle in the Mirror, even more so than space. One might spend a day there and a week has come and gone in Reality. The next day only two could have passed.
+Time is fickle here, even more so than space. One might spend a day there and a week has come and gone in Reality. The next day only two could have passed.
 
 During all flux of the passing of time, one thing is somewhat constant: Time generally moves slower in the Mirror. As do Beings, and people, in the Mirror age slower. To this day there are Members of the [[Organisations/1. The Wardens of the Shattered Veil/1. Overview|Wardens of the Shattered Veil]] that count their years beyond a century but look like they are still in their late 40s.
 

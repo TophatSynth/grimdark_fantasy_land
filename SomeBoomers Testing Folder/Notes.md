@@ -29,3 +29,12 @@
 *He nervously licks his lips, presses his eyes shut for two seconds as if to ground himself. Then, with a crooked smile, and still shaking hands he rolls down the window*
 
 From closer up it becomes pretty obvious that the teen is in a decent shape all things considered. Slim but not starving, dirty but not covered in grime. His eyes still dart between the two strangers. Waiting.
+
+
+
+| Mirror       |
+| ------------ |
+| veil         |
+| spirit realm |
+| reality      |
+             
