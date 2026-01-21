@@ -1,0 +1,5 @@
+# Overview 
+- Summons [[Elder Spirits]] to materialise 
+- Is like [[Spirit Summoning]], but instead of summoning for combat or utility purposes, the spirits are summoned simply to talk. Sometimes, this can be used to glean hidden information or insight on certain matters, but more often than not, Elder Spirits do not have the same concerns as humans, leading to either ignorance or apathy on the matter. 
+- To summon an Elder Spirit, one must engage in a [[Spirit Fragments#Luring and Binding|Luring Ritual]] just as with Spirit Fragments. This ritual differs in that the usual bonuses and penalties for Fragment domains do not apply, but rather are replaced with bonuses for being in an altered state of mind (inebriation, drugged, etc) and penalties for individuals present who are not in a similar state. The ritual also takes 1 hour per attempt rather than the usual 10 minutes, owing to the more detached nature of Elder Spirits. At the end of each ritual, the user rolls against their `Spirit Affinity` skill, with one Spirit summoned with every 5 MoS. 
+- 
