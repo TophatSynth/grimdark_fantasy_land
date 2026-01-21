@@ -10,9 +10,6 @@ The general concept of Spirit Magic involves summoning a Spirit, then petitionin
 
 Once obtained, though, the Spirit's power thrums powerfully within. Most often, it lends a keen edge to one's abilities, but in other cases, the effect is nothing short of supernatural. Either way, one must be careful to not be overcome by greed, lest they are consumed by it — Each blessing is, by nature, an aspect of the Veil, and the body can only withstand so much exposure. 
 
-
-
-
 <br>
 ## [[Spirit Communing]]:
 - Simply said, one invites nearby [[Elder Spirits]] to their camp.
@@ -37,6 +34,10 @@ Once obtained, though, the Spirit's power thrums powerfully within. Most often, 
 ## Spirit Summoning
 
 
+# New attribute
+## Spirit Affinity 
+- Cost: 10 points/level
+- Your attunement to the Spirit Realm, its inhabitants, and its ways. This affects how likely Spirits are to trust you in interactions. 
 # New traits 
 
 ## Spirit Sense
@@ -44,12 +45,6 @@ Once obtained, though, the Spirit's power thrums powerfully within. Most often, 
 - You can see and hear Spirits. This is a prerequisite to even interact with Spirits in the first place — pretty hard to communicate with something that you can't see.
 
 ## Spirit Wielder 
-- Cost: 10 points/level
-- Allows the user to use Spirit Magic, and governs the number of Spirit Bonds you can have. 
-
-
-Spirit Wielder is a levelled trait, the higher the level the more fragments/summons you can have active at one time
-
-- Could be flavoured as your body isn't meant to carry more than a certain amount of spirit energy? The Veil, though torn, is still dimensional energy. It _will_ tear you apart if you're not strong enough.
-
-You _can_ carry more than your limits, but every minute you do it you lose 1d HP per spirit over your level? Something like that.
+- Cost: 10 points/level, a maximum of (Spirit Affinity + HT) / 5 levels
+- Allows the user to use Spirit Magic, and governs the total number of Spirit Bonds you can have. A Spirit Bond is any ongoing effect bestowed by a Spirit, such as a Fragment's Wildcard skill or a Bargain made with an Elder Spirit. 
+- The maximum number of Spirit Bonds is equal to the level of this trait. You _can_ have more Bonds than your level, but each additional Bond over your level afflicts a -2 penalty to **all** rolls. Additionally, every time you would lose HP, you lose an additional d6 per extra Bond. 
