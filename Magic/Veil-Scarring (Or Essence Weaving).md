@@ -108,7 +108,7 @@ publish: "true"
 - **Requires Word** [-10%],
 - **Transcribable** [+5%],
 - **Attracts Threats** (CR 9) [-10%],
-- **Corrupting** (1 Corruption point/Energy spend) [-20%],
+- **Corrupting** (1 Corruption point/2 Energy spend) [-20%],
 
 After all the above:
 
