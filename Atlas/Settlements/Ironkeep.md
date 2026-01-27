@@ -25,7 +25,6 @@ recenter: false
 darkmode: false
 marker:
 - Road,5508,2485.333251953125,Nose and Neck - Coastal Road,,,
-- Road,0,0,Nose and Neck - Coastal Road,,,
 - Town,Coordinates,<Linked Note>,,<minZoom*>,<maxZoom*>,
 - Town,Coordinates,<Linked Note>,,<minZoom*>,<maxZoom*>
 
@@ -53,8 +52,16 @@ marker:
 > | Places of note | Testing |
 > | Primary religions | Testing |
 
-# Ideas #ToDecide 
+# Spitballing 
 
+- High surrounding cliffs give defensive advantage
+- Singular access to the town — tightly controlled and fortified 
+- Pretty self-sufficient within the walls due to fishing still being somewhat viable (if you don't go too far offshore) 
+- Insular but reasonable levels of comfort 
+- 
+
+
+--- 
 -  Ili'tha are crafted by the inhabitants of Ironkeep
     - Their coast lies between the sea and towering stone cliffs, atop which grow the [[Li'ath flowers]]. They simply took what was available around them and made it into a new invention. 
     - Houses of wooden/bamboo stilts? <- leftover from prev ideas
@@ -63,6 +70,8 @@ marker:
     - Some warriors of the aforementioned village practice extensively with this technique, often fighting with shorter swords or daggers to maximise 
 - Alternatively, warriors train with slings to be able to hurl the equivalent of Molotov cocktails in battle. 
 - Another version of Ili'tha made using less Li'ath oil and solidified sugar instead of glass is considered a delicacy among the aristocracy of the few kingdoms that manage access to Li'ath flowers – whether it be by trade or force.
+
+
 
 ---
 
