@@ -39,15 +39,15 @@ publish: "true"
 # Effects of Corruption
 
 - Corruption-Threshold (CT) = 20 (CT 1 = 20, CT 2 = 40, etc)
-- Roll against Will **or** HT at -1 per CT breached immediately whenever a *CT* is breached **and** at the end of each day if Personal Corruption Level (PCL) is above CT 1
-- On success nothing happens and Corr-Level stays. Roll again next day
+- Roll against Will **or** HT at -1 per CT breached **immediately** whenever a *CT* is breached **and** at the end of each day if Personal Corruption Level (PCL) is above CT 1
+- On success nothing happens and Corr-Level stays. Roll again soon.
 - On failure ***Mutation*** occurs.
 - ==Roll **??What to roll here??**== to determine whether the mutation has ***Detrimental Side-Effects***
 - **Luck** is available for Corruption checks
 <br>
 
 ## Mutations: 
-- Worth 1 CP per 10 Corr
+- Worth min 1 CP per 10 Corr
 - Physical for HT-roll, Mental for Will-roll
 - Corr is used up for Mutations, fractions remain (On mutation at PCL = 46, 40 Corr are used up, 6 remain)
 - Determined by GM + Player
